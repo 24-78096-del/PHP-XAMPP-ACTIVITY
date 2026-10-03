@@ -1,0 +1,4 @@
+<?php
+// php variable declaration ($)
+$username = "BSIT BA 3104";
+$user_id = 1596819;
